@@ -41,7 +41,7 @@ class Location
      *  min = "-90",
      *  max = "90",
      *  minMessage = "You must be between -90 and 90.",
-     *  maxMessage = "You must be between -90 and 90.",
+     *  maxMessage = "You must be between -90 and 90."
      * )
      */
     protected $latitude;
@@ -52,7 +52,7 @@ class Location
      *  min = "-180",
      *  max = "180",
      *  minMessage = "You must be between -180 and 180.",
-     *  maxMessage = "You must be between -180 and 180.",
+     *  maxMessage = "You must be between -180 and 180."
      * )
      */
     protected $longitude;
